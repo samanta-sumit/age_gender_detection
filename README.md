@@ -23,9 +23,13 @@ simple age and gender detector using machine learning
 
 
 ## sample output:
-1.[sample output1](https://github.com/samanta-sumit/age_gender_detection/blob/main/output1.png)
-2.[sample output2](https://github.com/samanta-sumit/age_gender_detection/blob/main/output%202.png)
-3.[sample output3](https://github.com/samanta-sumit/age_gender_detection/blob/main/output3.png)
-4.[sample output4](https://github.com/samanta-sumit/age_gender_detection/blob/main/output4.png)
+## 1.sample output 1:
+![sample output1](https://github.com/samanta-sumit/age_gender_detection/blob/main/output1.png)           
+## 2.sample output 2:
+![sample output2](https://github.com/samanta-sumit/age_gender_detection/blob/main/output%202.png)             
+## 3sample output 3:
+![sample output3](https://github.com/samanta-sumit/age_gender_detection/blob/main/output3.png)               
+## 4.sample output 4:
+![sample output4](https://github.com/samanta-sumit/age_gender_detection/blob/main/output4.png)             
 
 
